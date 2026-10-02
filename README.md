@@ -20,6 +20,6 @@ user.email=hellenjue@gmail.com
 ```
 
 ## Links
-- 🌐 **Live Personal Website:** [https://HellenWamuciiNjue.github.io](https://HellenWamuciiNjue.github.io)
-- 📝 **Markdown Assignment Profile:** [markdown-practice.md](markdown-practice.md)
-- 👥 **Week 00 Team Workspace:** [iyf-s12-week-00-team-HellenWamuciiNjue](https://github.com)
+- 🌐 **Live Personal Website:** [Live page](https://HellenWamuciiNjue.github.io)
+- 📝 **Markdown Assignment Profile:** [Markdown](https://github.com/HellenWamuciiNjue/HellenWamuciiNjue/blob/main/markdown-practice.md))
+- 👥 **Week 00 Team Workspace:** [Team collaboration](https://github.com/HellenWamuciiNjue/iyf-s12-week-00-team-HellenWamuciiNjue)
