@@ -45,11 +45,11 @@ check_progress(5, 8)
 ```
 
 ## Exercise 8 — Blockquote
-> "Git is a version control system — it tracks every change you make to your files so you can go back to any previous version. Think of it as an 'undo history' for your entire project."
+> "Why are we doing this manually when we could make the computer do it? My core automation mindset approach to technology."
 
 ---
+<!-- Bonus — Put it all together -->
 
-## Bonus — Put it all together
 ### About Me
 
 Hello! My name is **Hellen Wamucii Njue** and I am a student actively leveling up my technical engineering skills during *Season 12 of the IYF Weekend Academy*. 
@@ -74,3 +74,5 @@ For direct updates or technical review outreach, check out my workspace links be
 | :--- | :--- | :--- |
 | Environment | Identity footprints matching handles | Confirmed |
 | Formatting | Standard GFM structural specifications | Checked |
+
+> "You aren't starting programming from zero. You're bringing years of problem-solving, research, communication, and business operations experience into tech."
