@@ -8,8 +8,8 @@
 I am currently working hard to master **version control workflows**, write *clean automation scripts*, and practice running foundational syntax commands using the `git status` utility snippet.
 
 ## Exercise 3 — Links
-- View my public profile dashboard: [Hellen Wamucii Njue GitHub Profile](https://github.com)
-- Reference technical documentation: [Official GitHub Writing and Formatting Manual](https://github.com)
+- View my public profile dashboard: [Hellen Wamucii Njue GitHub Profile](https://github.com/HellenWamuciiNjue)
+- Reference technical documentation: [Official GitHub Writing and Formatting Manual](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 
 ## Exercise 4 — Lists
 ### Tech Stack Goals
@@ -26,7 +26,7 @@ I am currently working hard to master **version control workflows**, write *clea
 
 | Tool | Purpose | Link |
 | :--- | :--- | :--- |
-| VS Code | Lightweight code editor environment | [://visualstudio.com](https://://visualstudio.com/) |
+| VS Code | Lightweight code editor environment | [visualstudio.com](https://code.visualstudio.com) |
 | Git Bash | Terminal client for execution control | [git-scm.com](https://git-scm.com) |
 
 ## Exercise 6 — Task list
